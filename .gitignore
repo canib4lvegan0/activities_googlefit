@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+Takeout
+bin
+lib
+.Python
+.idea
+pyvenv.cfg
